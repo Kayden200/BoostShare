@@ -1,0 +1,14 @@
+{
+  "name": "gigashare-boost",
+  "version": "1.0.0",
+  "description": "GIGA SHARE BOOST application",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "body-parser": "^1.19.0"
+  }
+}
